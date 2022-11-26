@@ -1,0 +1,1 @@
+let find_bun = document.getElementById("find_bun") as HTMLDivElement;
